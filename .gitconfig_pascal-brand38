@@ -1,4 +1,6 @@
+[user]
+    name = Pascal Brand
+    email = pascal.brand38@gmail.com
+
 [core]
-    name = "Pascal Brand"
-    email = "pascal.brand38@gmail.com"
     sshCommand = "ssh -i ~/.ssh/id_rsa_pascal-brand38"
