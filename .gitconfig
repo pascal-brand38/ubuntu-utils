@@ -1,5 +1,9 @@
 [core]
-    editor = vi
+    editor = gedit
+
+[diff]
+    tool = meld
+
 
 [includeIf "gitdir:**"]
     path = .gitconfig_other
